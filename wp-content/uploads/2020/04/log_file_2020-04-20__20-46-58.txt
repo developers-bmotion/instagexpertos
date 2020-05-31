@@ -1,0 +1,31 @@
+
+---Downloaded files---
+The import files for: UI Elements: <b>Shortcodes</b> were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = https://instagexpertos.test
+Data file = /Users/mauriciogutierrez/Sites/instagexpertos/wp-content/uploads/2020/04/demo-content-import-file_2020-04-20__20-46-58.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "oh__img48" (Medios)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/after_import---
+
